@@ -1,0 +1,1 @@
+java -jar consumer.jar 127.0.0.1:9092 0
